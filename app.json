@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Edumug",
+    "slug": "edumug_erp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/erp.jpeg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.edumug.com",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.edumug.com",
+      "versionCode": 2,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/erp.jpeg",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e2ce0504-f49e-46e0-9775-d50e8b1b402b"
+      }
+    }
+  }
+}

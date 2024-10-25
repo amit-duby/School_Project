@@ -1,0 +1,10 @@
+** Packages To Install ** 
+    api - axios
+    local-storage - @react-native-async-storage/async-storage
+
+~~ cmd ~~ 
+    yarn add  axios 
+    yarn add  @react-native-async-storage/async-storage
+    both  -  yarn add  axios @react-native-async-storage/async-storage
+
+**Usages Instruction**
